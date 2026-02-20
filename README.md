@@ -1,3 +1,4 @@
 # apnacollage-demo
-This is my first Repository
-author satyam thakur
+This is my first Repository.
+<br>
+author - satyam thakur
